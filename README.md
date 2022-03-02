@@ -33,6 +33,5 @@ An application to write and save note with Express.js back end and will save and
 <p><a href="https://fonts.google.com/">Google Fonts</a></p>
 
 
-## Contributor:
-Sylvia Prabudy ©2020 All Rights Reserved.
-- - -
+
+
