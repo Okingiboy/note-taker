@@ -22,11 +22,6 @@ An application to write and save note with Express.js back end and will save and
 - Application will allow user to be delete notes
 
 
-## Screenshots
-![](public/assets/img/NoteTaker_LP.png)
-![](public/assets/img/NoteTaker_WriteNotes.png)
-![](public/assets/img/NoteTaker_SavedNotes.png)
-
 
 ## Technologies Use
 <p><a href="https://nodejs.org/">Node.js</a></p>
