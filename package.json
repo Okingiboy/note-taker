@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sylvia Prabudy",
+  "author": "james Chukwu",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sylviaprabudy/note-taker.git"
+    "url": "git+https://github.com/Okingiboy/note-taker.git"
   },
   "bugs": {
-    "url": "https://github.com/sylviaprabudy/note-taker/issues"
+    "url": "https://github.com/Okingiboy/note-taker/issues"
   },
-  "homepage": "https://github.com/sylviaprabudy/note-taker#readme"
+  "homepage": "https://github.com/Okingiboy/note-taker#readme"
 }
