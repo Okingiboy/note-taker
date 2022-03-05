@@ -32,6 +32,8 @@ An application to write and save note with Express.js back end and will save and
 <p><a href="https://getbootstrap.com/">Bootstrap</a></p>
 <p><a href="https://fonts.google.com/">Google Fonts</a></p>
 
+https://github.com/Okingiboy
 
+https://okingiboy.github.io/developer-profile-html-css-js-git-james/
 
-
+https://www.linkedin.com/in/james-chukwu-238b3446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEHZLwPjTTfGgZGF1o%2FlQ%2Bg%3D%3D
